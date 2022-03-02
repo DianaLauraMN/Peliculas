@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="peli1">Suits</string>
+    <string name="peli2">Leap Year</string>
+    <string name="peli3">Men In Black</string>
+    <string name="peli4">SmallVille</string>
+    <string name="peli5">ToyStory</string>
+
+
+    <string name="peli1_desc">Sinopsis Suits</string>
+    <string name="peli2_desc">Sinopsis Leap Year</string>
+    <string name="peli3_desc">Sinopsis Men In Black</string>
+    <string name="peli4_desc">Sinopsis SmallVille</string>
+    <string name="peli5_desc">Sinopsis ToyStory</string>
+
+</resources>
